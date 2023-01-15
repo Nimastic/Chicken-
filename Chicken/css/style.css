@@ -1,0 +1,20 @@
+
+
+* { margin: 0; padding: 0; }
+body { font: 14px/1.4 Georgia, serif; }
+
+#two {
+	background-image: url("https://media.istockphoto.com/id/1189348761/photo/shrilling-chicken-squeaky-toy-chicken-dolls-are-shocked-toy-rubber-shriek-yellow-cock.jpg?s=612x612&w=0&k=20&c=Qi1WyZtOd8EAjfrPzD5V7CvD2Ad-P5K--amNXfCC52U=");
+}
+
+.nav a {
+	display: block;
+	position: fill;
+	min-height: 150px;
+	min-width: 1300px;
+	text-decoration: none;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoL5871Ezx8_f16W0mJw7bpLIKX98K5YiuQ&usqp=CAU");
+}
+
+.nav audio { position: absolute; left: 110%; top: 10px; display: block; height: 30px; width: 200px; }
+
